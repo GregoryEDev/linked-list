@@ -41,5 +41,5 @@ $ npm t
 Visualise your Linked List with:
 
 ```bash
-$ node run app.js
+$ npm run start
 ```
