@@ -1,4 +1,4 @@
-# Linked List
+# Singly Linked List
 
 You are required to implement a [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 
